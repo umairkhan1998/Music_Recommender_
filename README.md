@@ -63,10 +63,10 @@ Open your browser and go to http://127.0.0.1:5000/.
 Enter a track name in the input field and click "Get Recommendations" to receive music recommendations based on the lyrics of the song.
 
 ## Features
-### Music Recommendations: Get similar songs based on the track name, artist, and lyrics.
-### Simple UI: A user-friendly interface built with HTML and Bootstrap.
-### Machine Learning: Uses TF-IDF vectorization to process text data and Nearest Neighbors for similarity-based recommendations.
-## Contributing
+ Music Recommendations: Get similar songs based on the track name, artist, and lyrics.
+ Simple UI: A user-friendly interface built with HTML and Bootstrap.
+ Machine Learning: Uses TF-IDF vectorization to process text data and Nearest Neighbors for similarity-based recommendations.
+ Contributing
 ### Fork this repository.
 Create your branch (git checkout -b feature-name).
 Commit your changes (git commit -am 'Add new feature').
