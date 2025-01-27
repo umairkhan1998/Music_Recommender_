@@ -13,11 +13,11 @@ A music recommendation system built using Flask and machine learning techniques 
 This project allows users to input a song's name, and the system will return recommendations of similar tracks. The recommendation engine is based on the lyrics, track name, artist name, and playlist information. The backend is powered by Flask and machine learning, specifically using the TfidfVectorizer and NearestNeighbors from scikit-learn.
 
 ## Tech Stack
-###  Frontend: HTML, CSS (Bootstrap for styling)
-### Backend: Flask (Python web framework)
-### Machine Learning: scikit-learn (TF-IDF Vectorization, Nearest Neighbors)
-### Dataset: A dataset of songs with features like track name, artist, lyrics, and playlist name.
-## Installation
+ Frontend: HTML, CSS (Bootstrap for styling)
+ Backend: Flask (Python web framework)
+ Machine Learning: scikit-learn (TF-IDF Vectorization, Nearest Neighbors)
+ Dataset: A dataset of songs with features like track name, artist, lyrics, and playlist name.
+ Installation
 ### Clone this repository:
 
 bash
