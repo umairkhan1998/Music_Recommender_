@@ -1,9 +1,9 @@
 # Music_Recommender_
 A music recommendation system built using Flask and machine learning techniques to suggest songs based on lyrics input. The system uses a combination of song features like track name, artist, lyrics, and playlist name to recommend similar songs from the dataset.
 
-Table of Contents
-About
-Tech Stack
+## Table of Contents
+### About
+#Tech Stack
 Installation
 Usage
 Features
